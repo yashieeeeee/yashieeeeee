@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Bhopal%2C%20India-Open%20to%20Bangalore-8B5CF6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍%20Lucknow%2C%20India-Open%20to%20Bengaluru-8B5CF6?style=flat-square&logoColor=white" />
 </p>
 
 <p align="center">
@@ -29,8 +29,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-yashi--gupta1709-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:yashigupta1709@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yashigupta1709@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:gyashi335@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gyashi335@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/yashieeeeee">
@@ -64,7 +64,7 @@ My engineering philosophy centers on building software that is not only function
 
 **Open To:**
 - Full-Stack / Frontend Engineer roles (Fresher / Entry-Level)
-- Software Engineering Internships — Bangalore preferred
+- Software Engineering Internships — Bengaluru preferred
 - AI-integrated product teams and founding team environments
 
 ---
@@ -343,20 +343,20 @@ Leading digital presence and content strategy for one of VIT Bhopal's most activ
 ## ◈ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/yashieeeeee">
-    <img src="https://img.shields.io/badge/LeetCode-yashieeeeee-7C3AED?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" />
+  <a href="https://leetcode.com/u/gyashi335/">
+    <img src="https://img.shields.io/badge/LeetCode-gyashi335-7C3AED?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" />
   </a>
   &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/yashieeeeee">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-yashieeeeee-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0D1117" />
+  <a href="https://www.geeksforgeeks.org/profile/gyashotiv">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gyashotiv-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0D1117" />
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/yashieeeeee">
-    <img src="https://img.shields.io/badge/HackerRank-yashieeeeee-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0D1117" />
+  <a href="https://www.hackerrank.com/profile/gyashi335">
+    <img src="https://img.shields.io/badge/HackerRank-gyashi335-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0D1117" />
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/yashieeeeee">
-    <img src="https://img.shields.io/badge/CodeChef-yashieeeeee-5B21B6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" />
+  <a href="https://www.codechef.com/users/quiet_seed_28">
+    <img src="https://img.shields.io/badge/CodeChef-quiet__seed__28-5B21B6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
 
@@ -418,9 +418,9 @@ current_focus:
     - Developer experience tooling and internal engineering platforms
   open_to:
     - Full-Stack / Frontend Engineer (Fresher / Entry-Level)
-    - Software Engineering Internships — Bangalore preferred
+    - Software Engineering Internships — Bengaluru preferred
     - AI product teams and founding-team roles
-    location: Bangalore, India (relocating)
+    location: Bengaluru, India (relocating)
     availability: Immediate
 ```
 
@@ -429,8 +429,8 @@ current_focus:
 ## ◈ Connect
 
 <p align="center">
-  <a href="mailto:yashigupta1709@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-yashigupta1709@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:gyashi335@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-gyashi335@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/yashi-gupta1709">
